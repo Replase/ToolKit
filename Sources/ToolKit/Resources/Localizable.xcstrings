@@ -1,7 +1,126 @@
 {
   "sourceLanguage" : "es",
   "strings" : {
+    "¿Qué quieres hacer?" : {
 
+    },
+    "+52 55 1234 5678" : {
+
+    },
+    "Agrega una foto desde la galería o toma una con la cámara" : {
+
+    },
+    "Apariencia" : {
+
+    },
+    "Asunto" : {
+
+    },
+    "Bocetos" : {
+
+    },
+    "Calcar dibujo" : {
+
+    },
+    "Cámara" : {
+
+    },
+    "Cancelar" : {
+
+    },
+    "Cerrar" : {
+
+    },
+    "Códigos QR" : {
+
+    },
+    "Color de la app" : {
+
+    },
+    "Compartir QR" : {
+
+    },
+    "Configuración" : {
+
+    },
+    "Contenido" : {
+
+    },
+    "Contraseña" : {
+
+    },
+    "correo@ejemplo.com" : {
+
+    },
+    "Editar" : {
+
+    },
+    "Editar QR" : {
+
+    },
+    "Eliminar" : {
+
+    },
+    "Escribe cualquier texto..." : {
+
+    },
+    "Galería" : {
+
+    },
+    "Generar QR" : {
+
+    },
+    "Guardar" : {
+
+    },
+    "Hola!" : {
+
+    },
+    "https://ejemplo.com" : {
+
+    },
+    "Listo" : {
+
+    },
+    "Mensaje" : {
+
+    },
+    "Mi QR" : {
+
+    },
+    "Mi WiFi" : {
+
+    },
+    "Nombre (opcional)" : {
+
+    },
+    "Nuevo QR" : {
+
+    },
+    "Opacidad: %lld%%" : {
+
+    },
+    "Red oculta" : {
+
+    },
+    "Seguridad" : {
+
+    },
+    "Sin bocetos" : {
+
+    },
+    "Sin códigos QR" : {
+
+    },
+    "Tipo de QR" : {
+
+    },
+    "Toca + para crear tu primer código QR" : {
+
+    },
+    "Vista previa" : {
+
+    }
   },
   "version" : "1.0"
 }
